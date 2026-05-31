@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Yuvraj Drive 3D",
+  "description": "A completely 3D driving simulator with missions, racing, traffic, fuel management, and an open world city, developed by Yuvraj Chaudhary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
